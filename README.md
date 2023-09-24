@@ -1,5 +1,5 @@
 # Pong-Game
-Play the classic computer game!
+Play the classic computer game! - [here](https://replit.com/@ArchitRathod1/Pong-Game)
 
 Controls| Up | Down |
 :--------:|:----:|:------:|
